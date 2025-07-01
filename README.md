@@ -1,6 +1,6 @@
 # open-reading-frame-finder
 
-This open reading frame (ORF) finder program was part of my project submitted for **</ind>BIOL 474/574 - Bioinformatics<ind>** at California State University, Long Beach with Dr. Renaud Berlemont in Spring 2025.
+This open reading frame (ORF) finder program was part of my project submitted for [BIOL 474/574 - Bioinformatics](http://catalog.csulb.edu/preview_course.php?catoid=10&coid=91995&print) at California State University, Long Beach with Dr. Renaud Berlemont in Spring 2025.
 After assembling sequenced DNA reads into contigs, the ORF finder identifies potential genes (regions that may undergo transcription) from all possible reading frames.
 
 This is a part of a larger workflow as described below:
